@@ -78,4 +78,4 @@ python task2.py
 
 ## 👨‍💻 Author
 
-Nayum Akthar
+Bommana Harshitha
